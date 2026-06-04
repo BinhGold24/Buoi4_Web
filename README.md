@@ -35,3 +35,4 @@ if (ModelState.IsValid)
 - Không cho phép giá nhỏ hơn hoặc bằng 0.
 - Hiển thị lỗi trực tiếp trên form.
 - Chỉ lưu dữ liệu khi hợp lệ.
+- [Video cho buổi 5](https://www.loom.com/share/9f2ab667ba8e4013af0ca0a83eba3e0a)
